@@ -1,0 +1,29 @@
+4
+hd001
+Ca hat
+2/3/2023
+gv004
+Ngyen Hoang Lan
+tr001
+10
+hd001
+Ca hat
+2/3/2023
+gv001
+Ngo Anh Tuan
+tr004
+8
+hd002
+Nhay Mua
+3/3/2023
+gv002
+Le Tuyet May
+tr001
+10
+hd005
+Da bong
+2/3/2023
+gv001
+Ngo Anh Tuan
+tr001
+8.2

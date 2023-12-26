@@ -1,0 +1,32 @@
+Nhấp vào … Để chạy chương trình
+Bấm phím 1 để vào menu quản lý trẻ
+Bấm 1. Nhập danh sách trẻ
+Bấm 2. Xuất danh sách trẻ
+Bấm 3. Thêm 1 trẻ vào danh sách 
+Bấm 4. Xóa 1 trẻ vào danh sách
+Bấm 5. Cập nhật thông tin một trẻ
+Bấm 6. Tìm kiếm thông tin một trẻ
+Bấm 7. Sắp xếp thông tin trẻ theo mã trẻ
+Bấm 0. Để thoát menu trẻ
+
+Bấm phím 2 để vào menu quản lý giáo viên
+Bấm 1. Nhập danh sách giáo viên
+Bấm 2. Xuất danh sách giáo viên
+Bấm 3. Thêm 1 giáo viên vào danh sách 
+Bấm 4. Xóa 1 giáo viên vào danh sách
+Bấm 5. Cập nhật thông tin một giáo viên
+Bấm 6. Tìm kiếm thông tin một giáo viên
+Bấm 7. Sắp xếp thông tin giáo viên theo mã giáo viên 
+Bấm 0 Để thoát menu giáo viên
+
+Bấm phím 3 để vào menu hoạt động
+Bấm 1. Nhập danh sách hoạt động
+Bấm 2. Xuất danh sách hoạt động
+Bấm 3. Thêm 1 hoạt động vào danh sách 
+Bấm 4. Xóa 1 hoạt động vào danh sách
+Bấm 5. Cập nhật thông tin một hoạt động
+Bấm 6. Tìm kiếm thông tin một hoạt động
+Bấm 7. Sắp xếp thông tin hoạt động theo mã hoạt động 
+Bấm 0 Để thoát menu hoạt động
+
+Bấm phím 4 để thoát chương trình 
